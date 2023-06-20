@@ -14,16 +14,16 @@ When you're ready to start building your app, you can follow along with [this tu
 
 Your completed ecommerce app will look similar to the following:
 
-![](/src/assets/payments-hub-react-browser-post-api-with-cart.png)
+![](/assets/payments-hub-react-browser-post-api-with-cart.png)
 
 Click the "View Details" button to open a product page:
 
-![](/src/assets/payments-hub-react-browser-post-api-product-with-cart.png)
+![](/assets/payments-hub-react-browser-post-api-product-with-cart.png)
 
 Click the "Shopping Cart" button to open the cart modal, which displays the items in your cart, the total order amount, and allows users to edit the contents of their cart:
 
-![](/src/assets/payments-hub-react-browser-post-api-shopping-cart.png)
+![](/assets/payments-hub-react-browser-post-api-shopping-cart.png)
 
 Click the "Checkout" button to open a new tab with a checkout form where customers can enter their payment information and submit an order:
 
-![](/src/assets/payments-hub-react-browser-post-api-with-cart-checkout-form.png)
+![](/assets/payments-hub-react-browser-post-api-with-cart-checkout-form.png)
